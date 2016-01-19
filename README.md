@@ -1,3 +1,3 @@
 # Calendar
 
-An API offering a shared calendar with which Appointments can be exchanged decentrally between peers using 
+An API offering a shared calendar with which Appointments can be exchanged decentrally between peers using sharkfw.
